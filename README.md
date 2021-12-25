@@ -2,8 +2,7 @@
 
 Sou Caio Almeida, apenas mais um apaixonado por desenvolvimento WEB. 🐣 
 
-![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAReis&show_icons=true&theme=cobalt)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAReis&layout=compact&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+[![Caio's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaioAReis&show_icons=true&theme=cobalt)](https://github.com/CaioAReis)
 
 ## Tecnologias 🦖
 
@@ -58,3 +57,5 @@ Sou Caio Almeida, apenas mais um apaixonado por desenvolvimento WEB. 🐣
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" 
 />
 </div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioAReis&layout=compact&theme=cobalt)](https://github.com/CaioAReis)
