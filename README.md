@@ -18,6 +18,7 @@
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=CaioAReis&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=CaioAReis&layout=compact&langs_count=8&theme=algolia"/>
     </a>
+    <a href="https://github.com/CaioAReis"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=CaioAReis&theme=algolia" alt="CaioAReis" /></a>
 </p>
 
 <br><br>
